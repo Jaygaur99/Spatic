@@ -1,0 +1,8 @@
+autopep8==2.0.1
+geographiclib==2.0
+geopy==2.3.0
+Levenshtein==0.20.9
+pycodestyle==2.10.0
+rapidfuzz==2.13.7
+tomli==2.0.1
+tqdm==4.64.1

@@ -7,7 +7,7 @@ import Levenshtein
 from geopy.distance import great_circle
 import argparse
 from tqdm import tqdm
-import time
+
 
 MAX_DISTANCE = 200
 MAX_EDITS = 5
