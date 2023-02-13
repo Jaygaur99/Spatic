@@ -160,6 +160,8 @@ async def main(input_file, output_file):
         print(
             f"An error occurred while writing to the file {output_file}: {e}")
 
+    print("Data Written to file: ", output_file)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=" \
